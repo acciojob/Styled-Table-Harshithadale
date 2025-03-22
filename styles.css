@@ -1,1 +1,22 @@
 /* your code */
+table{
+	border:1px solid purple;
+	border-collapse:collapse;
+	text-align:center;
+	font-family:"Roboto"
+}
+th{
+	background-color:violet;
+	padding:10px;
+	color:white;
+	text-shadow:0px 0px 10px deeppink;
+}
+td{
+	padding:10px;
+}
+.col-head{
+	background-color:lightblue;
+	color:white;
+	text-shadow:0px 0px 10px deeppink;
+	
+}
